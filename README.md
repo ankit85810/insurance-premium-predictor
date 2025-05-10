@@ -1,6 +1,6 @@
 ## Insurance Premium Predictor
 
-machine learning-powered web application that predicts health insurance premiums based on personal, medical, and lifestyle factors.
+machine learning-powered web application( [link](https://insurance-premium-predictor-by-ankit.streamlit.app/) ) that predicts health insurance premiums based on personal, medical, and lifestyle factors.
 
 ## 📋 Overview
 
